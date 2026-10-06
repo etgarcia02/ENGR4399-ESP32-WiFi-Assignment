@@ -24,7 +24,7 @@ graph TD
     classDef software fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px;
     classDef network fill:#fff3e0,stroke:#e65100,stroke-width:2px,stroke-dasharray: 5 5;
 
-    subgraph "Your Wokwi Project"
+    subgraph "ESP32 Cyber-Physical Ticker Node"
         ESP32[ESP32 Microcontroller<br/>Wokwi Simulator]:::hardware
         Button[Push Button<br/>Pin 12 Input]:::hardware
         LEDs[Status LEDs<br/>Green/Red Pins 2/4]:::hardware
