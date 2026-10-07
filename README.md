@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements an IoT live financial data ticker using an ESP32 microcontroller in the Wokwi simulator. The system connects to WiFi, queries the CoinGecko REST API for real-time cryptocurrency data, parses the incoming JSON payload, and updates status LEDs based on market performance.
 
-- **Wokwi Simulation Link:** 
+- **Wokwi Simulation Link:** https://wokwi.com/projects/477182565223574529
 
 ## Hardware & Wiring Setup
 - **ESP32 Microcontroller**
